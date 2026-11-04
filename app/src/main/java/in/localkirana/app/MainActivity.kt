@@ -1,4 +1,4 @@
-package in.localkirana.app
+package com.localkirana.app
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
